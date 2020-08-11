@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gazf) ![](https://vercel-test-git-master.gazf.vercel.app/api?id=gazff)
+[![github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gazf)](https://github.com/anuraghazra/github-readme-stats) [![github-readme-twitter](https://vercel-test-git-master.gazf.vercel.app/api?id=gazff)](https://github.com/gazf/)
 
 <!--
 **gazf/gazf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
