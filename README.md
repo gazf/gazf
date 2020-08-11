@@ -7,4 +7,5 @@
 
 <a href="#"><img align="center" src="https://via.placeholder.com/600x1.png/fff/fff"></a>
 
+---
 [![](https://img.shields.io/badge/-@gazff-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/gazff) [![](https://img.shields.io/badge/-https://gazee.net-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://gazee.net) [![Qiita](https://img.shields.io/badge/Qiita-@gazf-555555?style=flat-square&labelColor=55c500)](https://qiita.com/gazf)
