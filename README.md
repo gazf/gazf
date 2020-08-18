@@ -1,7 +1,7 @@
 ---
 
 <a href="https://github.com/gazf/github-readme-twitter">
-<img align="left" src="https://github-readme-twitter.gazf.vercel.app/api?id=gazff&layout=wide" />
+<img align="left" src="https://github-readme-twitter.gazf.vercel.app/api?id=gazff&layout=wide&show_reply=off&show_retweet=off" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
